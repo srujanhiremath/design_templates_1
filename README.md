@@ -13,8 +13,7 @@ We have created **8 distinct themes** that cater to different preferences, cultu
 5. **Green & Yellow Nature Theme** (`index-green.html`)
 6. **Professional Pink Theme** (`index-pink.html`)
 7. **Royal Purple Theme** (`index-purple.html`)
-8. **Electric Cyan Theme** (`index-cyan.html`)
-9. **Rainbow Multicolor Theme** (`index-rainbow.html`)
+8. **Rainbow Multicolor Theme** (`index-rainbow.html`)
 
 ---
 
@@ -278,48 +277,7 @@ We have created **8 distinct themes** that cater to different preferences, cultu
 
 ---
 
-## ⚡ 8. Electric Cyan Theme (`index-cyan.html`)
-
-### **Color Palette**
-- **Electric Cyan** (#00ffff) - Brilliant neon primary
-- **Deep Cyan** (#0891b2) - Professional foundation
-- **Coral** (#ff6b6b) - High contrast accent
-- **Orange** (#ff8c42) - Warm complement
-- **Yellow** (#ffd93d) - Bright highlight
-- **Dark Navy** (#0f172a) - Strong contrast text
-
-### **Design Philosophy**
-- Combines ocean coolness with neon energy
-- Emphasizes futuristic, high-tech aesthetics
-- Uses explosive animations and bold typography
-- Creates electrifying, attention-grabbing experience
-
-### **Key Features**
-- 5.5rem giant headings with uppercase styling
-- Font-weight 900 for maximum impact
-- Animated text gradients that wave and pulse
-- Glowing text shadows with cyan effects
-- Logo pulsing glow with light effects
-- Spinning feature icons with 360° rotation
-- Bouncing titles and flowing rainbow borders
-- Sparkling particle backgrounds
-- Pulsing stat cards with glow effects
-
-### **Target Audience**
-- Technology and innovation schools
-- Gaming and digital arts programs
-- Future-focused educational institutions
-- STEM and robotics programs
-
-### **Best Use Cases**
-- Computer science and IT programs
-- Digital arts and animation schools
-- Gaming development academies
-- Robotics and AI education centers
-
----
-
-## 🌈 9. Rainbow Multicolor Theme (`index-rainbow.html`)
+## 🌈 8. Rainbow Multicolor Theme (`index-rainbow.html`)
 
 ### **Color Palette**
 - **Electric Red** (#ff0040) - High-voltage energy
@@ -447,3 +405,4 @@ We have created **8 distinct themes** that cater to different preferences, cultu
 ---
 
 *This documentation serves as a comprehensive guide for selecting and implementing the most appropriate theme for your EduFlow deployment. Each theme has been carefully crafted to serve specific audiences and use cases while maintaining the highest standards of design and usability.*
+
